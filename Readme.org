@@ -1,11 +1,12 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:04.429618
-#+TITLE: 華嚴經問答
-#+PROPERTY: CBETA_ID T45n1873
-#+PROPERTY: ID KR6e0087
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1873
-#+PROPERTY: VOL 45
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS T@HARA
-#+PROPERTY: LASTPB <pb:KR6e0087_T_000-0598b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+TITLE: 華嚴經問答 / T@HARA
+#+DATE: 2015-11-26 14:16:32.161040
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@HARA|【大→原】   |
+ |     T@JIA|【大→甲】   |
 
+* 目次
+* 卷
+** [[file:KR6e0087_001.txt][華嚴經問答 1]]
+** [[file:KR6e0087_002.txt][華嚴經問答 2]]
